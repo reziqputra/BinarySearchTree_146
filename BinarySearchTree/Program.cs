@@ -15,6 +15,11 @@
             rchild = r;
         }
     }
+    class BinaryTree
+    {
+        public node ROOT;
+    }
+
     class Program
     {
         /* A node class consi
