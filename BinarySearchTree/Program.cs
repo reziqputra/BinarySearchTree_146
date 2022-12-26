@@ -18,13 +18,11 @@
     class BinaryTree
     {
         public node ROOT;
+        public BinaryTree()
+        {
+            ROOT = null; //initializing root to null
+        }
     }
 
-    class Program
-    {
-        /* A node class consi
-         * 
-         */
-        
-    }
+
 }
